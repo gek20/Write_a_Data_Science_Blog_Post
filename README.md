@@ -13,9 +13,9 @@ The following Airbnb activity is included in the [Seattle dataset](https://www.k
 ### Business Understanding
 
 These were the questions we decided to explore in our dataset:
-1- Check the average availability and the average price of rooms in the different months of the year
+1- Which are the neighborhood with more Airbnb locations?
+2- What are the features that most affect price? And among amenities? 
 2- Try to identify which area is more subject to the fluctuation over the months
-3- Which are the features that affect the price? Is the location one of them?
 
 ### Data Cleaning
 Covert columns to the proper type, handle nan values etc..
