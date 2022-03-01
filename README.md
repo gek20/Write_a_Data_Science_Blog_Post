@@ -14,7 +14,7 @@ The following Airbnb activity is included in the [Seattle dataset](https://www.k
 
 These were the questions we decided to explore in our dataset:
 1- Which are the neighborhood with more Airbnb locations?
-2- What are the features that most affect price? And among amenities? 
+2- What are the numerical features that most affect the price? And amenities? 
 2- Try to identify which area is more subject to the fluctuation over the months
 
 ### Data Cleaning
