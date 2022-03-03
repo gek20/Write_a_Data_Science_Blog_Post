@@ -1,44 +1,40 @@
 # UDACITY Seattle Airbnb
+This project is part of the Udactiy Data Scientist Nanodegree. 
+The goal is to use the CRISP-DM process to explore the data and explain your findings.
 
-#Context
+## Context
 Since 2008, guests and hosts have used Airbnb to travel in a more unique, personalized way. As part of the Airbnb Inside initiative, this dataset describes the listing activity of homestays in Seattle, WA.
-
-# Content
 The following Airbnb activity is included in the [Seattle dataset](https://www.kaggle.com/airbnb/seattle):
 
-"Listings.csv" : including full descriptions and average review score
-"Reviews.csv" : including unique id for each reviewer and detailed comments
-"Calendar.csv" : including listing id and the price and availability for that day
+* "Listings.csv" : including full descriptions and average review score
+* "Reviews.csv" : including unique id for each reviewer and detailed comments
+* "Calendar.csv" : including listing id and the price and availability for that day
 
-### Business Understanding
+the file "seattle_airbnb_project.ipynb" contains the code used to analyze the data.
 
-These were the questions we decided to explore in our dataset:
-1- Which are the neighborhood with more Airbnb locations?
-2- What are the numerical features that most affect the price? And amenities? 
-2- Try to identify which area is more subject to the fluctuation over the months
+## Business Understanding
 
-### Data Cleaning
-Covert columns to the proper type, handle nan values etc..
+We are trying to answer the following questions:
+* Which are the neighborhood with more Airbnb locations?
+* What are the features that most affect the price? Is the location one of those?
+* Which areas are more affected by fluctuations in price/availability over the months?
 
-### Data Understanding: Exploring the Data
-How are the apt/houses distributed in Seattle? 
-What neighborhoods have more AirBnB apt/houses?
+## Installation
+To run the Jupyter Notebook, you will need the following packages:
 
+For the analysis:
+* pandas 
+* numpy 
+* re
+* datetime 
+* sklearn
 
-### Prepare Data
+For the graphic part: 
+* matplotlib 
+* seaborn 
+* colorcet 
+* warnings
 
-data cleaning = rimuovo i nan, creo quelli che posso, etc.. 
-
-### Model Data
-
-preparo i dati per il mio modello di machine learning. Poi alleno il modello
-
-### Results
-
-Descrivo i risultati ottenuti con il modello
-
-
-### Public Blog
-
-Racconto tutto per un pubblico non scientifico
+## Public Blog
+The summary of the results is available here: []
 
