@@ -36,5 +36,6 @@ For the graphic part:
 * warnings
 
 ## Public Blog
-The summary of the results is available here: []
+The summary of the results is available here: https://medium.com/@gek20/exploring-seattle-airbnb-locations-01-2016-01-2017-a97e3f97d7f5
+
 
