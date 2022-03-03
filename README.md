@@ -38,4 +38,5 @@ For the graphic part:
 ## Public Blog
 The summary of the results is available here: https://medium.com/@gek20/exploring-seattle-airbnb-locations-01-2016-01-2017-a97e3f97d7f5
 
-
+## Acknowledgments
+This dataset is part of Airbnb Inside and it is available here: https://www.kaggle.com/airbnb/seattle
